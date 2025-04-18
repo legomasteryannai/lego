@@ -1,0 +1,10 @@
+
+
+
+#a{
+color: darkcyan; 
+}
+
+div{border-color: yellow;
+display: grid;
+    grid-template-columns: fr1,fr1,fr1; }
